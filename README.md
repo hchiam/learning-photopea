@@ -1,43 +1,31 @@
-# Learning template [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/hchiam/learning-template/blob/main/LICENSE)
+# Learning [Photopea](https://www.photopea.com)
+
+Basically Photoshop, except free, and legal, and in your browser.
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
-(To create a convenience script repo, use this template instead: https://github.com/hchiam/convenience)
+<https://www.photopea.com>
 
-(To create a website fast, use a code generator like [`create-next-app`](https://github.com/hchiam/learning-nextjs), [`sapper`](https://github.com/hchiam/learning-sapper), a [svelte template](https://github.com/sveltejs/template), or [`yo`](https://yeoman.io/generators) )
+<https://youtu.be/1UWGoiIYGUw?t=14>
 
-<!-- Add reference link(s) here -->
+<https://www.photopea.com/learn/vg-creating>
 
-## From scratch
+Feature requests: <https://github.com/photopea/photopea/issues>
 
-Using [`yarn`](https://github.com/hchiam/learning-yarn):
-
-```bash
-yarn add
-```
-
-Or with `npm`:
+## Example SVG export from Photopea
 
 ```bash
-npm install
+open demo.html
 ```
 
-And then:
+## Quick reminders
 
-```bash
+- **Ctrl+F** lets you type command name and run it. (It also shows the keyboard shortcut.) This functionality reminds me of Ctrl+Shift+P in VS Code.
 
-```
+- "Pen" --> click dots = **polygon**.
 
-## Starting by testing out this repo <!-- Replace "template"s and "# and then ..."s in this section -->
+- Curves: "Pen" --> click+drag = **path with curves** (Bézier ones).
 
-Using [`yarn`](https://github.com/hchiam/learning-yarn): (triple-click to select all)
+- You can practice drawing Bézier curves at <https://bezier.method.ac>
 
-```bash
-git clone https://github.com/hchiam/learning-template.git && cd learning-template && yarn; # and then ...
-```
-
-Or with `npm`: (triple-click to select all)
-
-```bash
-git clone https://github.com/hchiam/learning-template.git && cd learning-template && npm install; # and then ...
-```
+- Other things like rotation, selection, blur, layers, subtraction, etc. remind me of GIMP. Except the interface is basically Photoshop.
