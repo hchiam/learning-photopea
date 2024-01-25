@@ -29,3 +29,7 @@ open demo.html
 - You can practice drawing Bézier curves at <https://bezier.method.ac>
 
 - Other things like rotation, selection, blur, layers, subtraction, etc. remind me of GIMP. Except the interface is basically Photoshop.
+
+- This only flips one layer, and doesn't work on SVG layers: Edit > Transform > Flip Horizontally.
+
+- This flips the **_entire_** file/image, and **_works_** on **_SVG_** layers: **_Image_** > Transform > Flip Horizontally.
