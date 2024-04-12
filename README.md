@@ -33,3 +33,5 @@ open demo.html
 - This only flips one layer, and doesn't work on SVG layers: Edit > Transform > Flip Horizontally.
 
 - This flips the **_entire_** file/image, and **_works_** on **_SVG_** layers: **_Image_** > Transform > Flip Horizontally.
+
+- ["remove" objects with **content-aware fill**](https://www.youtube.com/watch?v=G-d3y9WMFDg): select object > Edit > Fill... > Content Aware.
