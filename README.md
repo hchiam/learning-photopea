@@ -1,16 +1,12 @@
 # Learning [Photopea](https://www.photopea.com)
 
-Basically Photoshop, except free, and legal, and in your browser.
+Basically Photoshop, except free, and legal, and in your browser: [photopea.com](https://www.photopea.com)
 
-Just one of the things I'm learning. <https://github.com/hchiam/learning>
+Just one of the things I'm learning. https://github.com/hchiam/learning
 
-<https://www.photopea.com>
+Beginner tutorial video: https://www.youtube.com/watch?v=JIdvvG9ZX7c
 
-<https://youtu.be/1UWGoiIYGUw?t=14>
-
-<https://www.photopea.com/learn/vg-creating>
-
-Feature requests: <https://github.com/photopea/photopea/issues>
+Feature requests: https://github.com/photopea/photopea/issues
 
 ## Example SVG export from Photopea
 
@@ -18,7 +14,11 @@ Feature requests: <https://github.com/photopea/photopea/issues>
 open demo.html
 ```
 
-## Quick reminders
+## Miscellaneous notes
+
+- https://youtu.be/1UWGoiIYGUw?t=14
+
+- https://www.photopea.com/learn/vg-creating
 
 - **Ctrl+F** lets you type command name and run it. (It also shows the keyboard shortcut.) This functionality reminds me of Ctrl+Shift+P in VS Code.
 
@@ -35,3 +35,4 @@ open demo.html
 - This flips the **_entire_** file/image, and **_works_** on **_SVG_** layers: **_Image_** > Transform > Flip Horizontally.
 
 - ["remove" objects with **content-aware fill**](https://www.youtube.com/watch?v=G-d3y9WMFDg): select object > Edit > Fill... > Content Aware.
+  - or use the "spot healing" brush or patch tool: https://www.youtube.com/watch?v=JIdvvG9ZX7c
