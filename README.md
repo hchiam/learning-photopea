@@ -36,3 +36,5 @@ open demo.html
 
 - ["remove" objects with **content-aware fill**](https://www.youtube.com/watch?v=G-d3y9WMFDg): select object > Edit > Fill... > Content Aware.
   - or use the "spot healing" brush or patch tool: https://www.youtube.com/watch?v=JIdvvG9ZX7c
+
+- to add an outline around the selected shape, right click on its layer, and select stroke (checkbox, select, change colour)
