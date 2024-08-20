@@ -20,7 +20,7 @@ open demo.html
 
 - https://www.photopea.com/learn/vg-creating
 
-- **Ctrl+F** lets you type command name and run it. (It also shows the keyboard shortcut.) This functionality reminds me of Ctrl+Shift+P in VS Code.
+- **Ctrl+F** lets you type command name to search and hit **Enter** to run it. (It also shows the keyboard shortcut.) This functionality reminds me of Ctrl+Shift+P in VS Code.
 
 - "Pen" --> click dots = **polygon**.
 
