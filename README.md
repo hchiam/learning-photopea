@@ -38,3 +38,5 @@ open demo.html
   - or use the "spot healing" brush or patch tool: https://www.youtube.com/watch?v=JIdvvG9ZX7c
 
 - to add an outline around the selected shape, right click on its layer > Blending Options > Stroke (click on Stroke, checkbox on, change colour, etc.)
+
+- to generate SVG from image, you can run Image > "Vectorize Bitmap"
