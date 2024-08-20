@@ -4,8 +4,6 @@ Basically Photoshop, except free, and legal, and in your browser: [photopea.com]
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
-**_One command to rule them all_**: **Ctrl+F** lets you type command name to search and hit **Enter** to run it. (It also shows the keyboard shortcut.) This functionality reminds me of Ctrl+Shift+P in VS Code.
-
 Beginner tutorial video: https://www.youtube.com/watch?v=JIdvvG9ZX7c
 
 Feature requests: https://github.com/photopea/photopea/issues
@@ -15,6 +13,11 @@ Feature requests: https://github.com/photopea/photopea/issues
 ```bash
 open demo.html
 ```
+
+## **_One command to rule them all_**:
+
+**Ctrl+F**:
+- lets you type command name to search and then hit **Enter** to run it. (It also shows the keyboard shortcut.) This functionality reminds me of Ctrl+Shift+P in VSCode.
 
 ## Miscellaneous notes
 
