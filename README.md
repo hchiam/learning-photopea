@@ -4,6 +4,8 @@ Basically Photoshop, except free, and legal, and in your browser: [photopea.com]
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
+**_One command to rule them all_**: **Ctrl+F** lets you type command name to search and hit **Enter** to run it. (It also shows the keyboard shortcut.) This functionality reminds me of Ctrl+Shift+P in VS Code.
+
 Beginner tutorial video: https://www.youtube.com/watch?v=JIdvvG9ZX7c
 
 Feature requests: https://github.com/photopea/photopea/issues
@@ -19,8 +21,6 @@ open demo.html
 - https://youtu.be/1UWGoiIYGUw?t=14
 
 - https://www.photopea.com/learn/vg-creating
-
-- **Ctrl+F** lets you type command name to search and hit **Enter** to run it. (It also shows the keyboard shortcut.) This functionality reminds me of Ctrl+Shift+P in VS Code.
 
 - "Pen" --> click dots = **polygon**.
 
@@ -38,3 +38,5 @@ open demo.html
   - or use the "spot healing" brush or patch tool: https://www.youtube.com/watch?v=JIdvvG9ZX7c
 
 - to add an outline around the selected shape, right click on its layer > Blending Options > Stroke (click on Stroke, checkbox on, change colour, etc.)
+
+- to generate SVG from image, you can run Image > "Vectorize Bitmap"
